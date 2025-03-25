@@ -1,0 +1,35 @@
+# Environnements virtuels
+.venv/
+venv/
+ENV/
+
+# Fichiers de configuration
+.idea/
+.vscode/
+*.iml
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+
+# Fichiers générés par Jupyter
+.ipynb_checkpoints/
+
+# Fichiers logs
+*.log
+
+# Packages installés
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Données volumineuses ou sensibles (à adapter selon le projet)
+data/
+*.csv
+
+# Windows / Mac OS
+Thumbs.db
+.DS_Store
+
+listings.csv
