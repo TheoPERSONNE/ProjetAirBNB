@@ -1,6 +1,3 @@
-Voici un exemple de **README** (en français) et de **.gitignore** pour ton projet. Adapte-les selon tes besoins spécifiques.
-
----
 
 ## README.md
 
