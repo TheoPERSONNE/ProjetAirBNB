@@ -27,7 +27,7 @@ build/
 # Données volumineuses ou sensibles (à adapter selon le projet)
 data/
 *.csv
-*.cvs.gz
+*.csv.gz
 
 # Windows / Mac OS
 Thumbs.db
