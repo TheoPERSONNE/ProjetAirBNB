@@ -34,3 +34,4 @@ Thumbs.db
 .DS_Store
 
 listings.csv
+exportToHTML/AirBnBDataSet.ipynb.html
